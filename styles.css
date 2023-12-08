@@ -55,7 +55,7 @@ nav ul li {
 
 .firstPage {
     background: linear-gradient(#bdc7f2, #9ff9e8);
-    height: auto;
+    height: 790px;
     width: auto;
     margin: 0;
     padding: 0;
@@ -120,7 +120,7 @@ nav ul li {
     background: linear-gradient(#bdc7f2, #9ff9e8);
     margin: 0;
     padding-top: 70px;
-    height: auto;
+    height: 790px;
 }
 
 .secondSection {
@@ -132,7 +132,7 @@ nav ul li {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: auto;
+    height: 790px;
     padding-top: 40px;
 }
 
