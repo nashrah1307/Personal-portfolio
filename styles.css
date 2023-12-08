@@ -3,6 +3,7 @@ body {
     color: #303841;
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    height: auto;
 }
 
 * {
@@ -55,7 +56,7 @@ nav ul li {
 
 .firstPage {
     background: linear-gradient(#bdc7f2, #9ff9e8);
-    height: 760px;
+    height: auto;
     width: auto;
     margin: 0;
     padding: 0;
@@ -120,7 +121,7 @@ nav ul li {
     background: linear-gradient(#bdc7f2, #9ff9e8);
     margin: 0;
     padding-top: 70px;
-    height: 765px;
+    height: auto;
 }
 
 .secondSection {
